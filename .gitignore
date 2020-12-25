@@ -1,0 +1,6 @@
+node_modules/
+.next
+.vscode
+nodejs_dc.log
+nodejs_restclient.log
+resourceRegistry.log
