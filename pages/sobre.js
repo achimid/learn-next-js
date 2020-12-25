@@ -2,7 +2,7 @@ function Sobre() {
     return (
         <div>
             <div>Sobre</div>
-            <a href="/">Sobre</a>
+            <a href="/">Home</a>
         </div>
     )
 }
